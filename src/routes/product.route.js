@@ -128,4 +128,4 @@ async function scanDynamoRecords(scanParams, itemArray) {
   }
 }
 
-export default router;
+export {router};
